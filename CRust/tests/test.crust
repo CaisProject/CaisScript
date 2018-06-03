@@ -1,0 +1,5 @@
+#use <crust>
+
+{ using self.object, current.object
+
+}

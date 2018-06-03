@@ -1,0 +1,14 @@
+#use <cais>
+
+dfc main(test, test2) {
+    console.out("Hello World!")
+    console.out("Hola Mundo!")
+}
+
+console.out("You can also write code outside functions.")
+
+exit;
+
+dfc test() {
+    console.out("This should not be executed")
+}

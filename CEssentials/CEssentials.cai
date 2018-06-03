@@ -1,0 +1,18 @@
+#use <cais>
+
+use <system>
+use <os>
+use <python.e>
+include <CEssentials.cai>
+
+using self; attribute(Plugin);
+
+if (sys.process.main, os.command.running) == (cais, "cais -r") {
+    self.start();
+    sys.process.start("CAIS Essentials", "./process.cps")
+} else {
+    sys.process.force(cais);
+    error("Please start cais, or just start cais.cps.")
+    show << error;
+    unset(error)
+}

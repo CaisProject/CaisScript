@@ -1,0 +1,16 @@
+#use <crust>
+
+{ using self.object, current.object{
+    using self.object.console;
+    console.out "Welcome to CRust Console v1.0";
+    console.out "For help just type \h", style("color: red");
+    using self.object.key;
+    if (key.input) == ("\h"); (key.respkey) == ("\h") {
+        console.out "List of commands %i".include(ssh.website.help);
+        }
+    }
+}
+
+{ using self.object.readkey
+    current.quit()
+}

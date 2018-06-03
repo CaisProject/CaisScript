@@ -1,0 +1,18 @@
+#use <cais>
+
+write "This is something that will be outputed on the screen.";
+
+/# This is a comment, so the compiler and interpreter ignore this line
+// This is also a comment.
+/! CAIS also allows multiline comments,
+so if you skip one line like this, the interpreter continues ignoring until you close your comment using !/
+
+var MyVar; /# This is a variable without value.
+var MyVar = "value";
+var MyInt = 1;
+var MyFloat = 1.0;
+%MyVar = "value";
+$MyConstant = "constant value";
+const MyVar;
+
+using %MyVar; delete()

@@ -1,0 +1,20 @@
+{ body:
+    padding: 2px-left; 2px-right;
+    color: class {
+        .main: #red;
+        .subtitle: #white;
+        .comment: #gray;
+    }
+    opacity: class {
+        .main: 100%;
+        .subtitle: 80%;
+        .comment: 60%;
+    }
+    template {
+        stylesheet(https://caispl.org/templates/styles/gstarted.csf)
+    }
+}
+
+{ $form:
+    padding: 5px-center;
+}

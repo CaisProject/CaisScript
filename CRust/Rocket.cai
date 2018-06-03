@@ -1,0 +1,7 @@
+#use <cais>
+
+use "console.crust";
+use "console.cobj";
+use <default>
+use <slib.e>
+use <cframework.e> with namespace(); /# An empty namespace function work the same that with only spaces.

@@ -1,0 +1,28 @@
+#use <csf>
+!b .cui -uim
+
+{
+meta {
+    author: iAlex11;
+    description: A simple csf for get started example.
+    {% end meta %}
+  }
+}
+
+getstarted-btn {
+  type: button;
+  isClicked {
+    type: clicked-button;
+  }
+}
+
+test {
+    type: button;
+    isClicked {
+        type: clicked-button;
+    }
+    isHovered {
+        color: (255, 0, 0);
+        background-color: (200, 0, 0)
+    }
+}
