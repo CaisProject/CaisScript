@@ -1,8 +1,8 @@
 
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://caispl.org/status/build)
-[![License](https://img.shields.io/badge/license-GNU-green.svg)](https://caispl.org/license)]
-[![version](https://img.shields.io/badge/version-v1.0-orange.svg)](https://caispl.org/releases/recent)]
-[![platforms](https://img.shields.io/badge/platforms-macOS%20Mojave%20%7C%20Windows%2010%20%7C%20linux--64-blue.svg)](https://caispl.org/releases/recent)]
+[![License](https://img.shields.io/badge/license-GNU-green.svg)](https://caispl.org/license)
+[![version](https://img.shields.io/badge/version-v1.0-orange.svg)](https://caispl.org/releases/recent)
+[![platforms](https://img.shields.io/badge/platforms-macOS%20Mojave%20%7C%20Windows%2010%20%7C%20linux--64-blue.svg)](https://caispl.org/releases/recent)
 
 # The CAIS programming language.
 Made by [iAlex11](https://twitter.com/amvro_) the 7th June 2018.
