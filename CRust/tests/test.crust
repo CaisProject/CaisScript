@@ -1,5 +1,5 @@
 #use <crust>
 
 { using self.object, current.object
-
+    console.out("test")
 }

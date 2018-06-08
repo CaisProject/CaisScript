@@ -1,0 +1,3 @@
+#use <cais>
+
+write "This is a simple write statement"
