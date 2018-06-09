@@ -1,4 +1,4 @@
-<img src="assets/CAIS\ Banner\ logo.png"></img>
+[![Logo](https://caisproject.github.io/caispl.org/assets/CAIS%20Banner%20logo.png)](https://caispl.org/logo)
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://caispl.org/status/build)
 [![License](https://img.shields.io/badge/license-GNU-green.svg)](https://caispl.org/license)
 [![version](https://img.shields.io/badge/version-v1.0-orange.svg)](https://caispl.org/releases/recent)
