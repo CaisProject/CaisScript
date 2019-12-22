@@ -1,4 +1,4 @@
-# ARCHIVED: The CaisScript scripting language was moved to a private repository in order to continue it's development as a proprietary tool at HEMO and SEK institutions.
+# ARCHIVED: The CaisScript scripting language was moved to a private repository in order to continue its development as a proprietary tool at HEMO and SEK institutions.
 
 [![Logo](https://caisproject.github.io/caispl.org/assets/CAIS%20Banner%20logo.png)](https://caispl.org/logo)
 [![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://caispl.org/status/build)
